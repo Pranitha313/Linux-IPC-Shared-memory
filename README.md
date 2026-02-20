@@ -1,8 +1,8 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
-# Name: Pranitha
-# Ref. No.: 212225040312
+## Name: Pranitha
+## Ref. No.: 212225040312
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
